@@ -1,0 +1,250 @@
+x1:	sil	me	fs	fs	fv	s	fe	fs	fs	fe	mv	sil	me	fe	fs	mv	sil	me	fv	fs	fs	fs	fv	fs	fv	sil	me	fs	fs	fs	mv	sil	me	fe	fs	fs	mv	sil	me	fv	s	fe	fs	mv	sil	me	fs	fs	fs	fv	s	fe	fs	fs	mv	sil	
+x2:	10	58	53	65	34	32	75	42	43	75	75	49	26	67	150	58	38	51	28	90	55	108	38	60	49	41	55	35	66	33	69	50	31	55	32	41	56	48	82	52	37	87	38	59	47	55	40	36	39	11	55	67	60	62	76	101	
+x3:	0	2	0	0	16	2	3	3	0	2	41	2	0	2	6	30	2	2	0	2	0	0	2	2	30	2	0	0	0	0	50	2	2	2	2	2	35	2	2	19	0	2	0	44	2	0	2	2	0	0	16	0	0	2	0	2	
+y:	_	,	_	_	,	_	_	,	_	_	.	_	_	,	,	.	_	_	_	,	_	_	_	,	,	_	_	_	_	_	.	_	_	_	,	_	.	_	_	,	_	_	_	.	_	_	_	.	_	_	,	_	_	_	_	.	
+stats:	16	0	0	
+x1:	sil	me	mv	sil	me	fs	fv	sil	me	fe	fe	fs	fe	fs	mv	fv	sil	me	fv	fs	fe	fs	fs	mv	sil	me	fs	mv	sil	me	fe	fe	fs	fs	fe	mv	sil	me	sil	me	sil	
+x2:	9	65	126	60	49	71	67	53	75	91	50	53	44	86	124	43	90	57	33	58	53	44	109	66	71	41	74	64	59	66	102	41	101	118	60	111	91	68	65	61	142	
+x3:	9	0	63	0	2	0	35	2	2	2	2	2	0	0	2	85	2	0	6	2	0	3	0	64	2	2	0	46	5	0	3	2	0	3	0	71	2	45	0	2	6	
+y:	_	_	.	_	_	_	,	_	,	_	_	_	_	_	_	.	_	_	_	_	_	_	_	.	_	_	_	,	_	_	,	_	_	_	_	.	_	,	_	_	_	
+stats:	10	0	0	
+x1:	sil	me	fs	fs	fs	mv	sil	me	fs	fs	fs	fv	fs	fs	fs	mv	sil	me	sil	me	mv	sil	fv	fe	mv	sil	me	fs	fs	mv	sil	me	fs	fs	fs	mv	sil	
+x2:	9	61	48	76	73	86	65	60	59	63	32	39	87	50	62	126	83	75	49	83	106	77	72	60	80	57	80	60	105	97	52	35	52	47	57	110	123	
+x3:	2	2	0	2	2	6	0	2	2	4	2	2	3	2	7	84	0	21	2	2	74	2	2	2	43	0	2	2	0	37	0	2	2	0	2	0	2	
+y:	_	_	_	_	_	.	_	_	_	_	_	,	_	_	_	.	_	,	_	_	.	_	,	_	.	_	_	,	_	.	_	_	_	_	,	_	.	
+stats:	9	0	0	
+x1:	sil	me	fv	fe	fs	fs	mv	sil	me	fs	mv	sil	me	fv	fe	mv	sil	me	mv	sil	me	fe	sil	me	fv	fe	sil	me	me	fe	mv	sil	
+x2:	9	71	68	59	72	48	59	79	84	127	112	70	33	61	58	62	70	71	22	49	65	42	66	115	44	43	89	42	106	45	81	103	
+x3:	2	0	2	2	3	2	58	0	2	0	66	6	0	2	2	63	2	0	35	2	2	39	2	8	2	0	0	2	2	2	0	34	
+y:	_	_	,	_	,	_	.	_	,	_	.	,	_	_	_	.	_	_	,	_	_	,	_	,	_	_	_	_	,	_	_	_	
+stats:	19	0	1	
+x1:	sil	me	fv	sil	me	fe	fs	fv	sil	fv	fe	mv	sil	me	fs	fs	fs	fv	sil	me	fe	mv	sil	me	mv	sil	me	fs	mv	sil	me	fs	mv	sil	me	fe	fv	fe	fv	sil	me	fv	fs	fe	mv	sil	me	fe	fs	mv	sil	
+x2:	9	79	81	37	66	49	49	54	41	55	57	48	71	52	37	80	91	44	40	39	70	78	78	82	40	56	79	38	70	111	51	98	73	62	50	82	61	54	52	47	33	34	73	40	38	65	72	89	39	83	122	
+x3:	0	2	31	0	2	2	0	31	2	2	0	71	0	2	2	10	0	41	0	6	0	75	0	2	45	0	2	0	91	0	15	7	36	0	0	2	2	0	40	0	2	0	2	0	57	2	0	0	0	73	32	
+y:	_	,	,	_	_	_	_	,	_	_	_	.	_	_	,	_	_	,	_	_	_	.	_	,	,	_	_	_	.	_	_	,	.	_	_	_	,	_	,	_	_	_	_	_	,	_	_	_	_	.	_	
+stats:	1	1	0	
+x1:	sil	me	fe	fs	fe	fs	fe	fe	mv	sil	me	fe	fs	mv	sil	fv	fe	fs	mv	sil	me	fs	fs	fs	fs	fs	mv	sil	me	fv	s	mv	sil	
+x2:	11	47	45	34	85	95	82	80	99	97	55	54	66	100	86	45	71	33	241	66	33	46	54	95	73	75	53	76	30	29	107	56	70	
+x3:	0	0	2	0	0	2	0	2	76	0	0	2	0	73	0	3	4	2	59	2	2	2	2	3	2	0	73	0	0	2	0	23	40	
+y:	_	_	_	_	_	,	_	,	.	_	_	,	_	.	_	_	_	_	.	_	_	_	_	,	_	_	.	_	_	_	_	.	_	
+stats:	12	0	0	
+x1:	sil	me	mv	sil	me	fs	mv	sil	fv	fs	fs	fs	mv	sil	me	fe	fv	s	mv	sil	me	fs	mv	sil	fv	fe	fs	fv	mv	sil	me	fs	fs	mv	sil	me	fv	s	mv	fv	s	sil	
+x2:	9	54	64	64	37	44	104	66	58	52	63	39	72	46	74	68	48	74	45	44	64	90	56	88	50	46	97	56	103	59	66	78	64	72	81	66	31	57	45	40	72	123	
+x3:	0	0	45	0	0	2	51	0	2	3	0	2	42	2	2	2	22	5	38	2	0	0	78	7	0	0	0	2	48	0	0	2	0	79	2	2	22	2	0	2	0	36	
+y:	_	_	.	_	_	,	.	_	_	_	_	_	,	_	_	,	,	_	,	_	_	_	.	_	_	_	_	_	,	_	_	_	_	.	_	_	,	_	_	_	_	_	
+stats:	10	0	0	
+x1:	sil	me	fs	fe	fs	fe	fs	mv	sil	me	sil	me	fe	fs	fs	fs	fs	mv	sil	me	fe	fs	fv	sil	me	fs	fs	mv	sil	me	fs	fs	fs	mv	sil	me	fs	fs	mv	sil	me	mv	
+x2:	9	61	35	46	39	74	36	116	74	57	40	44	60	80	36	91	87	128	106	28	110	83	60	61	43	21	77	98	87	42	79	65	69	100	78	47	66	56	104	46	56	129	
+x3:	0	0	0	2	2	5	3	62	2	6	2	2	2	0	0	2	0	102	2	0	0	0	46	2	0	2	2	84	0	2	2	3	5	75	0	2	0	2	49	0	2	67	
+y:	_	_	_	_	_	_	_	.	_	.	_	_	.	_	_	,	_	.	_	_	_	_	,	_	_	_	_	.	_	_	,	_	_	.	_	.	_	_	,	_	_	.	
+stats:	12	1	0	
+x1:	sil	me	fs	fs	fs	fs	mv	sil	me	fe	mv	sil	me	fs	fs	fs	fe	mv	sil	me	fe	fs	fv	sil	me	mv	sil	me	sil	me	fs	mv	
+x2:	13	47	53	53	72	78	99	60	52	74	89	79	67	80	43	56	66	142	78	42	62	90	72	42	34	87	71	41	83	62	98	114	
+x3:	0	0	0	6	2	2	58	2	2	5	0	34	2	2	0	2	0	75	0	2	2	2	40	2	2	56	0	2	0	2	4	77	
+y:	_	_	_	,	,	_	.	_	_	_	_	.	_	_	_	,	_	.	_	_	_	_	,	_	_	.	_	_	_	,	_	.	
+stats:	10	1	0	
+x1:	sil	me	fs	fs	fe	fv	s	mv	sil	me	fs	fe	fe	sil	me	fe	fs	mv	sil	me	fs	fs	fe	fs	mv	sil	fv	fe	fs	mv	sil	me	fe	fe	fe	fs	fs	mv	fv	sil	
+x2:	9	67	16	52	64	33	26	110	77	58	52	85	54	100	91	62	35	143	79	31	48	138	52	33	112	57	26	47	56	80	82	67	71	41	37	66	60	59	38	104	
+x3:	2	0	2	0	2	0	2	67	2	2	0	2	0	0	4	0	4	77	2	2	2	0	0	2	48	0	2	2	0	67	0	2	2	2	3	2	2	0	101	4	
+y:	_	_	,	_	_	_	,	.	_	_	_	,	_	_	_	_	_	.	_	_	_	_	_	_	,	_	_	_	_	.	_	,	,	_	_	_	_	_	.	_	
+stats:	6	0	0	
+x1:	sil	me	fs	fs	mv	sil	me	fv	s	fe	fv	fs	fe	mv	sil	me	sil	me	fv	s	mv	sil	me	fe	fs	fv	sil	me	fe	fe	mv	sil	me	mv	sil	me	fs	mv	
+x2:	9	82	52	35	65	66	43	16	37	77	27	90	59	106	63	77	73	33	32	84	149	91	40	122	53	56	48	77	90	90	54	81	89	26	49	70	41	114	
+x3:	0	2	2	2	63	0	0	3	0	0	6	2	0	56	2	45	2	0	0	2	98	0	0	0	0	47	2	2	0	0	68	2	0	46	2	4	6	40	
+y:	_	_	_	_	.	_	_	_	_	_	_	_	_	.	_	,	_	_	_	_	.	_	_	_	_	,	_	_	_	_	.	_	_	,	_	_	_	.	
+stats:	2	0	0	
+x1:	sil	me	fv	s	fs	mv	sil	me	fs	fs	fs	mv	fv	s	fe	fs	mv	sil	me	fe	fe	fs	fs	fs	mv	sil	me	mv	sil	me	fs	mv	sil	me	fe	fs	mv	sil	me	me	mv	
+x2:	9	52	34	67	63	72	67	80	76	46	68	76	55	75	46	50	171	70	24	56	40	51	100	83	81	59	78	66	48	44	37	85	75	36	73	46	90	81	69	76	80	
+x3:	9	0	3	2	5	65	0	2	2	2	0	4	48	2	0	2	64	2	0	2	2	2	0	0	54	2	0	41	0	0	0	77	2	2	0	0	70	2	3	16	78	
+y:	_	_	_	_	_	.	_	_	,	_	_	_	,	_	_	_	.	_	_	_	_	_	_	_	,	_	_	_	_	_	_	.	_	_	_	_	.	_	_	,	.	
+stats:	7	0	0	
+x1:	sil	me	fs	fs	fs	fs	fv	me	sil	me	fs	fs	fs	fs	fv	mv	sil	me	fs	fs	mv	sil	me	mv	sil	me	fe	fv	s	fe	fs	mv	sil	fv	sil	me	fs	fs	fs	fs	fs	fv	sil	fv	fe	fs	mv	
+x2:	9	45	36	40	58	57	37	52	94	68	30	52	70	54	54	28	53	64	85	58	88	87	38	85	61	51	69	18	22	81	81	56	69	37	44	50	45	58	80	24	74	49	56	47	64	79	97	
+x3:	10	2	2	2	0	0	5	0	2	0	0	0	0	6	2	36	2	5	2	2	75	0	2	55	0	3	4	2	2	2	0	55	0	36	0	0	0	4	2	0	0	53	2	2	0	0	71	
+y:	_	_	_	_	_	_	,	_	_	_	_	_	_	,	_	,	_	_	_	_	.	_	_	.	_	_	_	_	_	_	_	.	_	_	_	_	_	_	_	_	_	,	_	_	_	_	.	
+stats:	-2	0	0	
+x1:	sil	me	fv	fe	fe	fs	fs	mv	sil	fv	fe	fs	mv	sil	me	mv	fs	mv	sil	me	fs	fs	mv	sil	me	sil	me	fs	mv	sil	fv	s	fv	mv	sil	me	fe	fs	mv	sil	fv	fs	fe	mv	sil	me	mv	sil	
+x2:	10	64	82	31	55	26	93	69	36	36	73	151	86	73	55	42	73	57	43	30	38	78	58	60	48	69	38	74	46	84	46	26	101	180	83	46	34	61	81	55	40	124	84	86	54	71	42	117	
+x3:	0	0	4	0	2	0	0	0	4	2	2	4	67	0	0	0	0	29	0	0	6	2	61	2	49	0	2	0	79	0	10	2	2	64	0	0	2	2	52	0	0	9	2	37	2	0	62	43	
+y:	_	_	_	_	_	_	_	_	,	_	_	_	.	_	_	_	_	,	_	_	_	_	.	_	,	_	_	_	.	_	_	_	,	.	_	_	_	_	,	_	_	_	_	,	_	_	.	_	
+stats:	4	0	0	
+x1:	sil	me	fs	mv	sil	me	fe	fs	fe	fs	fs	fv	fe	fe	fe	fs	fv	s	fe	mv	sil	me	fe	fe	fs	fs	fs	mv	sil	me	fs	fs	mv	sil	fv	fs	mv	sil	me	fe	sil	fv	mv	
+x2:	9	75	70	83	67	42	56	23	48	71	47	32	62	70	72	28	41	71	88	31	81	60	95	68	31	51	40	60	62	75	82	108	78	69	64	90	139	65	51	40	57	61	104	
+x3:	2	0	0	60	0	0	2	3	2	5	0	3	4	2	0	0	35	0	0	72	2	2	2	0	2	0	2	48	4	2	0	0	59	0	2	0	60	0	2	40	2	2	14	
+y:	_	_	_	.	_	_	_	_	_	,	_	_	_	_	_	_	,	_	_	.	_	_	,	_	_	_	_	,	_	,	_	_	.	_	_	_	.	_	_	_	_	_	.	
+stats:	11	0	0	
+x1:	sil	me	fs	fs	mv	sil	me	fv	s	fs	fs	fv	sil	me	fv	s	fe	mv	sil	me	mv	sil	me	fe	mv	sil	me	fe	fs	mv	sil	me	fs	fs	mv	sil	me	fs	fe	mv	sil	me	fs	mv	
+x2:	9	62	27	92	107	43	36	41	60	46	89	53	63	43	105	98	36	47	46	84	79	62	24	77	120	109	58	50	40	76	76	54	173	56	107	69	85	62	41	140	62	58	72	48	
+x3:	9	0	2	0	37	0	0	11	2	0	0	40	0	2	11	2	0	37	0	0	55	2	5	0	82	0	6	2	2	61	0	6	0	2	66	0	2	0	0	54	0	8	0	17	
+y:	_	_	_	_	.	_	_	_	_	_	_	,	_	,	,	_	_	,	_	_	_	_	_	_	.	_	_	_	_	.	_	_	_	_	.	_	_	_	_	,	_	_	_	.	
+stats:	7	0	0	
+x1:	sil	me	fe	fs	fs	fe	fs	fs	mv	sil	me	fe	fs	mv	sil	me	me	mv	sil	me	fs	fs	mv	sil	me	fe	fs	me	sil	me	fs	fs	fs	mv	sil	me	fv	s	fv	fs	fs	fs	mv	
+x2:	9	63	41	39	68	44	69	76	71	49	54	43	61	55	89	71	42	118	65	58	95	46	96	74	42	48	30	46	99	39	65	93	62	35	95	37	90	79	37	64	78	68	72	
+x3:	9	2	0	2	0	2	0	0	45	0	2	0	0	70	0	0	2	61	2	2	2	2	67	2	3	2	2	0	0	12	0	2	0	76	0	2	63	2	2	2	0	2	62	
+y:	_	_	_	,	_	_	_	_	,	_	_	_	_	.	_	_	_	.	_	_	,	_	.	_	_	_	_	_	_	_	_	_	_	.	_	_	,	_	_	,	_	_	.	
+stats:	16	1	0	
+x1:	sil	me	fs	fs	mv	sil	me	fs	fs	fv	sil	me	fs	fv	s	fe	fs	fs	fs	mv	sil	me	mv	sil	me	fs	fs	fv	s	me	fs	mv	sil	me	fs	mv	sil	me	fe	fs	fs	mv	
+x2:	9	57	46	51	113	53	44	62	136	39	59	99	34	64	62	64	47	55	43	73	72	29	60	61	46	51	57	57	63	41	45	79	67	45	34	68	54	63	40	90	105	79	
+x3:	0	2	2	0	49	0	2	2	2	39	2	0	0	31	2	2	0	2	5	59	0	0	49	0	2	2	2	50	2	2	4	63	0	0	0	52	0	0	0	3	0	7	
+y:	_	_	_	_	.	_	_	_	_	,	_	_	_	,	_	,	_	_	_	.	_	_	,	_	_	_	_	,	_	_	_	.	_	_	_	.	_	_	_	_	_	.	
+stats:	3	0	0	
+x1:	sil	me	fs	fs	fs	fv	fs	fs	fs	mv	sil	me	fv	s	fs	fv	s	fe	mv	sil	me	fe	fs	fe	fe	mv	sil	me	fs	fs	fs	fv	sil	me	fv	sil	me	fs	fs	fs	mv	sil	me	mv	sil	me	fs	fs	mv	sil	
+x2:	10	76	33	68	46	28	77	54	24	154	82	55	19	69	65	66	101	67	33	88	36	47	72	49	52	60	58	43	55	55	52	53	89	83	65	54	48	74	69	113	32	67	54	37	38	38	33	63	90	112	
+x3:	2	2	3	2	2	0	2	0	2	9	0	8	8	2	0	47	2	0	86	2	5	0	2	2	2	35	0	0	0	0	2	0	8	2	45	2	4	4	2	0	44	2	0	31	0	0	7	2	0	5	
+y:	_	_	,	_	_	_	_	_	_	.	_	_	_	_	_	,	_	_	.	_	_	_	_	_	_	,	_	_	_	_	_	_	.	,	,	_	_	_	_	_	.	_	_	,	_	_	_	_	_	.	
+stats:	5	1	0	
+x1:	sil	me	fs	fv	s	fe	fs	fs	fs	fs	mv	sil	me	fs	mv	sil	me	fe	fv	s	fv	fe	fs	fv	sil	me	fe	fs	fs	mv	sil	fv	s	fe	mv	sil	me	fv	s	me	fs	fs	mv	sil	me	fv	sil	me	fs	fs	mv	sil	
+x2:	9	72	52	117	38	61	27	20	42	72	82	55	86	162	70	61	39	65	49	36	63	49	37	106	50	78	87	70	32	69	80	106	22	55	53	61	39	103	39	43	53	59	41	54	54	157	42	72	23	102	81	103	
+x3:	20	0	2	16	2	6	0	5	0	3	44	2	4	7	44	2	0	0	7	2	0	0	2	44	0	7	0	0	0	73	2	2	2	2	41	2	2	31	2	0	3	0	52	7	0	31	2	2	0	2	0	2	
+y:	_	_	_	,	_	_	_	,	_	_	.	_	,	,	.	_	_	_	,	_	_	_	_	,	_	,	_	_	_	.	_	,	_	_	.	_	_	,	_	_	_	_	.	_	_	,	_	_	_	_	_	.	
+stats:	19	1	0	
+x1:	sil	me	fs	fv	sil	me	fs	fs	mv	sil	me	fe	fs	fs	fv	sil	me	fv	fs	fv	sil	me	fs	fs	fs	mv	sil	mv	sil	me	fv	s	mv	fv	sil	
+x2:	9	68	49	37	59	35	28	62	114	92	33	53	138	64	41	105	29	40	113	48	96	69	48	90	59	87	40	113	92	64	54	62	57	37	104	
+x3:	16	2	2	46	0	2	2	5	81	0	0	3	0	5	0	7	0	2	4	84	2	0	2	2	2	31	2	73	2	2	19	2	2	95	9	
+y:	_	_	_	,	_	_	_	,	.	_	_	,	_	_	_	,	_	_	_	.	_	_	,	_	_	,	_	.	_	_	,	_	_	.	_	
+stats:	16	1	0	
+x1:	sil	me	sil	mv	sil	me	fs	fs	fv	s	fe	fs	mv	sil	me	fs	fs	fs	fs	fv	s	fs	mv	sil	me	fv	sil	me	mv	sil	me	fv	s	me	sil	me	fe	fe	fv	sil	me	fe	fe	fv	s	fe	fs	fs	mv	sil	
+x2:	9	78	48	46	45	61	44	42	44	50	42	40	51	66	45	32	44	50	64	35	53	46	66	77	49	73	37	69	124	70	88	26	55	41	87	67	50	87	53	60	50	33	74	61	41	62	35	50	63	115	
+x3:	0	31	0	42	0	2	0	2	31	2	2	0	65	0	0	2	0	0	0	29	2	2	73	0	2	24	0	2	47	0	2	33	0	2	2	0	0	0	52	0	2	0	0	23	2	0	2	0	0	2	
+y:	_	,	_	,	_	_	_	_	,	_	_	_	.	_	_	,	_	_	_	,	_	_	.	_	,	,	_	_	.	_	,	,	_	_	_	_	_	_	,	_	_	_	_	,	_	_	_	_	_	.	
+stats:	6	1	1	
+x1:	sil	me	mv	sil	me	fs	mv	sil	me	fv	fs	fe	fv	s	fe	fv	s	fv	s	fv	sil	me	fe	mv	sil	me	fe	fe	fe	fe	fv	s	fe	fs	mv	sil	me	fv	s	fe	mv	sil	
+x2:	10	56	51	70	76	50	62	57	33	32	86	94	60	77	49	52	49	46	66	51	43	67	62	72	93	35	43	88	47	54	69	85	66	78	83	68	54	41	69	103	69	99	
+x3:	0	0	51	0	12	2	45	0	0	4	2	2	43	2	5	31	2	15	2	34	2	0	2	0	2	0	0	2	2	2	39	0	3	2	63	2	2	33	5	0	90	5	
+y:	_	_	.	_	,	_	.	_	_	_	_	_	,	_	_	,	_	,	_	,	_	_	_	_	_	_	_	_	_	_	,	_	_	_	.	_	_	,	_	_	.	_	
+stats:	10	0	0	
+x1:	sil	me	fe	fv	s	fv	s	fe	fe	sil	me	fs	mv	sil	me	fe	fe	fv	fv	s	fe	sil	me	fe	fe	fs	fv	s	mv	sil	me	fv	sil	me	fe	fs	mv	
+x2:	9	49	55	49	50	53	40	53	57	86	66	57	56	137	42	41	66	25	52	49	144	100	36	71	54	26	78	75	74	61	45	26	40	34	30	112	82	
+x3:	0	0	0	25	0	6	0	3	0	2	2	4	0	2	3	2	2	0	22	0	0	2	2	2	0	2	27	2	50	0	2	29	0	2	2	0	41	
+y:	_	_	_	,	_	,	_	_	_	_	_	_	_	_	_	_	_	_	,	_	_	_	_	_	_	_	,	_	.	_	_	,	_	,	_	_	.	
+stats:	4	0	3	
+x1:	sil	me	fe	fe	fv	sil	me	sil	me	fe	mv	sil	mv	sil	me	fe	fv	fe	mv	sil	me	fe	fe	fv	s	me	fe	fs	fs	fv	s	fe	fs	mv	sil	me	fv	s	fv	s	me	fe	fe	mv	sil	
+x2:	9	62	74	60	59	41	71	76	112	49	26	45	53	70	86	77	23	82	59	86	39	36	46	55	55	30	79	35	20	55	72	51	29	73	89	78	53	45	39	28	37	58	57	92	102	
+x3:	9	0	0	2	35	2	0	2	2	0	26	0	53	0	2	0	4	2	60	2	0	2	2	40	2	2	2	0	0	42	2	0	0	2	7	12	31	0	23	0	0	0	2	0	2	
+y:	_	_	_	_	,	_	_	_	_	_	,	_	.	_	_	_	_	_	.	_	_	_	_	_	_	_	_	_	_	,	_	_	_	_	_	,	,	_	_	_	_	_	_	_	.	
+stats:	2	1	2	
+x1:	sil	me	sil	me	fe	fs	mv	sil	fe	fe	fe	fv	sil	fv	fe	fe	fv	fe	fv	sil	me	fs	mv	sil	me	fe	fe	fv	s	fe	fs	mv	sil	me	fv	s	fv	fe	mv	sil	
+x2:	10	80	62	32	35	32	51	22	54	62	83	57	37	24	61	38	36	58	33	32	54	52	65	40	64	68	86	72	62	61	67	61	37	54	29	32	30	70	51	114	
+x3:	0	31	0	0	2	2	13	13	2	2	2	29	2	2	4	4	2	0	25	2	0	2	32	2	0	2	2	27	0	2	0	34	2	2	21	2	2	0	0	5	
+y:	_	.	_	_	,	_	.	_	_	_	_	,	_	_	_	,	,	_	,	_	_	_	.	_	_	_	_	,	_	_	_	.	_	_	,	_	_	_	_	.	
+stats:	12	0	0	
+x1:	sil	me	fs	fs	mv	sil	me	fe	fs	mv	sil	fv	fe	fv	sil	me	fs	fs	fs	mv	sil	me	fs	mv	sil	me	fe	fe	fs	mv	sil	me	fe	fs	fe	fv	fe	mv	
+x2:	10	74	33	78	52	49	63	44	90	48	34	111	59	64	40	55	19	68	97	51	59	66	60	44	41	52	91	62	41	62	45	57	51	36	78	47	95	52	
+x3:	0	2	4	3	42	0	2	2	2	12	0	2	2	26	2	2	0	2	2	35	0	2	0	35	0	2	2	2	0	39	0	2	0	0	2	5	0	71	
+y:	_	_	_	_	.	_	_	_	_	,	_	,	_	,	_	_	_	_	_	.	_	_	_	.	_	_	_	_	_	.	_	_	_	_	_	,	_	.	
+stats:	12	0	0	
+x1:	sil	me	fv	fe	fs	fs	fs	fe	sil	me	fs	fs	mv	sil	me	fe	fs	fs	fs	fs	fs	fs	fv	sil	me	fv	fs	fs	mv	sil	me	fe	mv	sil	me	mv	sil	fv	s	me	mv	sil	me	fe	fe	fv	sil	me	fv	s	fe	fs	sil	me	
+x2:	11	55	55	82	55	70	71	67	88	64	73	80	67	58	86	76	39	45	44	101	21	35	47	53	81	20	38	101	68	56	74	32	57	25	71	42	30	53	55	62	84	50	89	60	49	36	65	53	61	63	70	51	46	45	
+x3:	0	0	2	2	2	0	3	0	2	2	2	0	54	0	2	0	2	2	3	4	4	0	44	2	0	0	0	2	44	0	3	2	18	0	0	11	0	45	2	0	52	0	0	0	2	51	0	2	28	2	2	25	0	2	
+y:	_	_	_	_	_	_	_	_	_	_	_	_	.	_	_	_	_	_	_	_	_	_	,	_	_	_	_	_	.	_	,	_	,	_	_	,	_	,	_	_	.	_	_	_	_	_	_	,	_	_	,	_	_	.	
+stats:	7	0	1	
+x1:	sil	me	fs	fs	fs	fs	fv	s	fe	fs	fs	mv	sil	me	fe	fs	fs	fe	fs	mv	sil	me	fs	fs	fv	s	fe	fs	fv	s	fe	fs	mv	sil	me	fv	s	fs	mv	sil	me	fs	fs	fs	fv	sil	fe	fs	mv	sil	
+x2:	9	57	56	53	59	76	26	41	44	55	66	79	51	42	35	93	33	57	58	55	52	35	64	70	45	49	51	27	67	44	56	44	58	46	59	58	55	20	96	60	68	57	37	106	45	38	58	64	103	112	
+x3:	4	0	0	2	2	0	25	2	0	4	2	44	0	0	2	0	11	2	0	39	0	2	5	0	31	0	2	2	25	2	2	2	39	0	2	21	2	2	61	0	0	8	2	0	27	2	0	0	88	17	
+y:	_	_	_	_	_	_	,	_	_	_	_	.	_	_	_	_	,	_	_	.	_	_	_	_	,	_	_	_	,	_	,	_	.	_	_	,	_	_	.	_	_	,	_	_	,	_	_	_	.	_	
+stats:	10	0	0	
+x1:	sil	me	fs	fs	fs	mv	sil	me	fs	fs	fs	fs	fs	fs	mv	sil	fv	s	fs	mv	sil	fv	fs	fs	mv	sil	me	fs	fs	fs	fs	mv	sil	me	fe	fs	mv	sil	
+x2:	9	60	41	95	39	75	40	66	105	63	74	45	65	50	56	53	80	56	42	87	47	37	57	74	58	51	61	53	33	49	92	54	51	28	54	104	93	121	
+x3:	5	2	2	0	2	10	0	0	2	3	2	2	0	9	48	0	27	0	2	43	2	2	9	2	37	0	0	2	0	2	2	43	0	2	2	8	74	29	
+y:	_	_	_	_	_	.	_	_	_	,	_	_	_	_	.	_	,	_	_	.	_	_	,	_	.	_	_	,	_	_	_	.	_	_	_	,	.	_	
+stats:	8	0	0	
+x1:	sil	me	fs	fs	fs	fs	fs	mv	sil	me	fe	fv	sil	fv	fe	fs	fs	mv	sil	me	fe	fe	fv	s	fv	s	fe	mv	fe	fv	mv	
+x2:	9	46	48	70	46	66	46	54	74	70	66	61	51	79	105	47	43	128	96	33	64	64	83	82	41	63	62	60	45	113	62	
+x3:	0	0	0	8	2	2	2	71	2	0	2	38	2	2	0	2	0	99	2	2	0	2	27	0	0	0	4	2	0	2	43	
+y:	_	_	_	,	,	_	_	.	_	_	_	.	_	_	_	,	_	.	_	_	_	_	,	_	_	_	,	,	_	_	.	
+stats:	12	0	0	
+x1:	sil	me	fe	fe	fe	fs	fv	s	fe	fs	fs	mv	sil	me	fe	fs	fs	fs	fs	mv	sil	me	fe	mv	fv	sil	me	fe	fs	fs	mv	sil	me	fs	fv	fe	fe	fe	fe	fs	mv	sil	
+x2:	9	152	58	72	68	55	58	78	58	94	111	36	60	50	49	66	64	88	44	141	56	46	55	44	60	54	51	105	44	46	62	87	105	88	30	113	27	108	69	63	50	118	
+x3:	52	0	0	4	4	2	8	0	3	2	0	57	0	0	2	3	11	6	0	56	2	2	2	0	53	0	2	2	4	0	0	2	6	3	2	0	6	2	8	2	48	70	
+y:	_	_	_	_	_	_	,	_	_	_	_	.	_	_	_	_	,	_	_	.	_	,	_	_	.	_	_	,	_	_	_	_	_	,	_	_	_	_	,	_	.	_	
+stats:	10	0	0	
+x1:	sil	me	fs	fv	s	fe	fs	mv	sil	me	fe	mv	sil	fv	fe	fs	fs	fs	mv	sil	me	fe	fs	fv	s	mv	sil	me	fe	fs	mv	
+x2:	9	49	48	47	47	46	58	87	67	60	44	87	72	66	60	35	73	39	123	86	32	58	101	37	63	67	91	63	76	69	109	
+x3:	0	0	0	20	0	2	5	62	2	2	2	70	2	2	2	0	2	2	82	2	2	2	0	26	2	83	0	2	2	0	13	
+y:	_	_	_	,	_	,	_	.	_	_	_	.	_	_	_	_	,	_	.	_	_	_	_	,	_	.	_	,	,	_	.	
+stats:	12	0	0	
+x1:	sil	me	fs	mv	sil	me	fs	fs	fs	fv	s	fv	fe	fs	fs	fv	sil	me	mv	sil	me	fe	sil	me	fe	fs	fs	fv	sil	fv	sil	me	fs	mv	sil	me	fs	mv	sil	me	fs	mv	sil	
+x2:	9	63	65	75	77	43	26	41	47	49	58	60	57	71	70	49	43	57	67	84	77	35	55	14	83	47	41	48	42	75	33	65	26	129	77	59	79	116	63	47	85	88	101	
+x3:	10	2	0	69	0	0	0	2	2	42	2	6	2	2	0	37	2	0	87	2	2	31	2	2	2	0	0	33	2	24	2	0	2	72	0	2	0	60	0	2	2	0	8	
+y:	_	_	_	.	_	_	_	_	_	,	_	_	_	_	_	,	_	_	.	_	_	,	_	_	_	_	_	,	_	,	_	_	_	.	_	_	_	.	_	_	_	_	_	
+stats:	12	0	0	
+x1:	sil	me	fs	fv	s	fv	s	fe	fv	sil	me	fs	mv	sil	me	fv	s	fs	fv	sil	me	fe	fs	mv	sil	me	fs	fe	fs	fv	sil	me	mv	sil	me	fv	sil	fv	s	me	fs	mv	
+x2:	72	39	73	53	76	57	91	49	43	80	80	61	89	105	58	44	46	47	50	52	22	53	66	55	91	53	81	47	48	75	53	40	77	84	50	30	80	73	59	57	53	101	
+x3:	0	2	0	54	0	9	2	2	75	2	2	7	98	2	2	0	2	0	49	2	0	0	0	90	0	2	0	2	2	53	2	2	70	0	2	69	0	48	2	0	3	14	
+y:	_	_	_	,	_	,	_	_	.	_	_	_	.	_	_	_	_	_	,	_	_	_	_	.	_	_	_	_	_	,	_	_	.	_	_	,	_	,	_	_	_	.	
+stats:	1	0	0	
+x1:	sil	me	fs	fs	fs	mv	sil	me	fs	fe	fe	fv	sil	me	mv	sil	fv	sil	me	mv	sil	me	fs	fv	fs	mv	sil	fv	sil	me	fs	fs	fv	s	me	fs	fe	sil	me	fs	fv	mv	sil	me	fe	fs	fs	fs	mv	
+x2:	9	106	43	55	59	54	106	54	60	91	55	77	100	41	59	34	113	56	38	45	37	49	31	24	51	59	105	82	72	38	51	55	71	78	49	44	43	129	48	41	26	25	99	48	49	42	53	86	68	
+x3:	45	6	2	0	0	112	0	0	3	2	2	104	2	0	22	0	44	2	0	34	0	2	0	2	5	89	0	59	0	0	2	2	65	2	2	7	0	0	2	0	101	101	2	2	0	0	2	6	6	
+y:	_	_	_	_	_	.	_	_	_	_	_	,	_	_	_	_	,	_	_	,	_	_	_	_	_	.	_	,	_	_	_	_	,	_	_	_	_	_	_	_	_	.	_	_	_	_	_	_	.	
+stats:	-3	0	0	
+x1:	sil	me	fs	fv	s	fv	sil	fv	s	me	fv	s	me	sil	fv	sil	me	sil	me	fv	sil	me	mv	fv	s	fs	fv	sil	me	mv	sil	fv	s	fv	sil	me	fs	fe	sil	
+x2:	9	73	48	84	51	84	41	114	46	62	43	60	64	76	63	65	58	81	41	33	63	32	55	57	49	63	63	48	57	95	53	50	63	59	37	62	51	37	134	
+x3:	9	0	5	17	2	38	0	18	0	0	64	0	0	2	40	2	0	2	0	54	0	2	2	0	10	2	38	0	0	40	2	15	2	21	0	2	0	0	101	
+y:	_	_	_	,	_	,	_	,	_	_	.	_	_	_	.	_	_	_	_	.	_	_	,	_	,	_	,	_	_	.	_	,	_	,	_	_	_	_	_	
+stats:	14	1	1	
+x1:	sil	me	fe	me	sil	me	fe	fe	fv	s	fv	s	sil	me	fs	fe	fs	mv	sil	me	fe	fs	fv	s	fe	fv	s	fe	fs	mv	sil	me	fs	mv	sil	me	sil	me	fs	mv	
+x2:	65	86	40	44	54	52	35	55	57	36	39	54	66	73	59	65	57	52	54	50	40	72	74	73	82	31	35	44	39	35	60	86	28	43	42	77	46	46	18	51	
+x3:	0	9	0	35	0	2	0	5	10	0	4	0	3	2	2	0	2	39	2	0	2	2	35	2	2	6	0	2	2	43	2	2	0	17	17	23	0	2	0	103	
+y:	_	_	_	,	_	_	_	_	,	_	,	_	.	_	,	_	,	.	_	_	_	_	.	_	_	,	_	_	_	.	_	_	_	_	.	,	_	_	_	.	
+stats:	14	0	0	
+x1:	sil	me	fs	fs	fv	fs	fs	fs	fs	fv	fs	fs	fs	mv	sil	me	fe	fs	fs	mv	sil	fv	s	mv	sil	me	fe	fs	mv	sil	me	fv	s	fs	fe	mv	sil	
+x2:	9	91	50	48	54	70	24	44	37	26	50	78	21	86	57	30	86	36	79	70	47	80	42	92	51	56	43	26	83	66	53	61	44	34	73	57	107	
+x3:	2	0	0	2	0	2	0	2	0	10	0	8	0	53	2	2	2	2	2	44	2	13	2	37	2	2	2	2	51	0	2	9	2	3	0	55	55	
+y:	_	_	_	_	_	,	_	_	_	,	_	,	_	.	_	_	,	_	_	.	_	,	_	.	_	_	_	_	.	_	_	,	_	_	_	.	_	
+stats:	13	1	0	
+x1:	sil	me	fv	s	fe	fs	fs	fs	mv	sil	me	sil	me	fe	fs	fv	sil	fv	fe	fs	fv	s	mv	sil	me	mv	sil	me	fe	fe	fv	s	fs	fs	fs	mv	sil	
+x2:	9	51	32	26	68	67	85	50	39	51	82	109	36	47	64	41	47	82	50	90	28	51	110	68	97	92	54	98	60	70	62	97	54	38	67	75	110	
+x3:	9	0	10	8	0	2	0	3	41	2	0	0	2	2	0	37	2	2	2	0	16	0	59	0	4	49	2	2	0	0	2	0	2	0	3	4	99	
+y:	_	_	,	_	_	_	_	_	.	_	_	_	_	_	_	,	_	_	_	_	,	_	.	_	_	.	_	,	_	_	,	_	_	_	_	.	_	
+stats:	14	0	0	
+x1:	sil	me	fv	s	mv	sil	me	fv	s	fs	fs	mv	sil	me	fs	mv	sil	fe	fs	mv	sil	me	fs	mv	sil	me	fs	fe	mv	sil	fv	s	fe	fs	fe	mv	sil	
+x2:	9	59	81	66	55	48	41	73	55	62	68	87	52	77	48	61	35	66	50	68	77	59	23	85	39	49	57	53	43	44	43	63	78	50	44	102	100	
+x3:	9	2	2	2	44	0	0	8	0	0	2	47	2	0	2	19	2	0	2	56	0	4	4	23	2	5	2	0	47	0	15	2	0	0	2	0	5	
+y:	_	,	,	_	.	_	_	,	_	_	_	.	_	_	_	,	_	_	_	.	_	_	_	.	_	,	_	_	_	_	,	_	_	_	_	_	.	
+stats:	12	0	0	
+x1:	sil	me	fe	fs	fs	fs	fs	mv	sil	me	fs	fs	mv	sil	me	fe	fs	fs	fs	fs	fs	mv	sil	fv	fv	fe	fs	fv	sil	me	me	sil	me	sil	me	sil	me	fe	mv	fv	sil	me	fe	sil	me	mv	sil	fv	me	
+x2:	9	55	63	82	51	64	62	86	81	68	65	81	53	73	81	55	60	48	75	76	17	84	69	21	136	54	62	31	68	53	78	44	61	31	31	81	66	49	38	48	62	93	98	105	65	33	32	136	58	
+x3:	10	0	2	0	0	0	3	75	0	2	2	0	66	0	2	0	0	2	0	3	3	64	0	11	0	0	0	56	0	4	20	0	23	0	54	0	14	2	0	63	0	0	2	2	2	17	2	2	2	
+y:	_	_	_	_	_	_	_	.	_	_	_	_	.	_	_	_	_	_	_	_	_	,	_	_	_	_	_	.	_	,	,	_	_	_	,	_	,	_	_	.	_	_	_	_	,	_	_	,	.	
+stats:	13	0	0	
+x1:	sil	me	fe	fs	fs	fv	s	fe	fs	mv	sil	me	fe	fv	s	fe	mv	sil	me	fs	fs	fv	s	fe	fv	sil	fe	mv	sil	me	fv	s	fe	mv	sil	me	fv	s	fe	fv	sil	fe	fs	mv	sil	
+x2:	9	62	48	56	95	52	43	95	34	105	59	43	61	54	28	74	99	46	58	36	61	39	36	75	58	37	75	88	41	64	44	54	32	77	47	47	81	34	96	46	36	65	63	79	110	
+x3:	9	0	2	2	0	29	2	2	2	47	0	0	2	0	10	2	37	0	0	0	0	28	2	2	21	2	2	37	0	0	23	2	2	42	0	2	10	2	0	26	2	0	0	0	2	
+y:	_	_	_	_	_	,	_	_	_	.	_	_	_	_	,	_	.	_	_	_	_	,	_	_	,	_	,	.	_	_	,	_	_	.	_	_	,	_	_	,	_	_	_	_	.	
+stats:	15	0	0	
+x1:	sil	me	fs	mv	sil	me	fe	fv	s	fv	fe	fs	fs	fs	fs	mv	sil	me	fs	fs	mv	sil	me	fs	fv	s	fe	fv	fs	fs	fs	fs	fs	fs	mv	sil	me	fv	mv	sil	
+x2:	9	71	48	59	50	52	56	59	50	53	80	45	84	70	44	110	50	60	112	107	42	52	52	54	50	46	34	46	59	35	51	39	96	39	98	43	35	34	102	104	
+x3:	9	0	2	52	0	0	0	30	0	2	2	2	0	2	0	48	2	0	2	2	50	2	0	0	17	2	2	0	2	2	2	0	2	2	33	2	0	2	91	91	
+y:	_	_	_	.	_	_	_	,	_	,	_	_	_	_	_	.	_	_	_	_	.	_	_	_	,	_	_	_	,	_	_	_	_	_	.	_	_	,	.	_	
+stats:	13	0	0	
+x1:	sil	me	mv	sil	fe	fs	fs	mv	sil	me	fe	fs	mv	sil	me	fs	mv	sil	me	fs	fs	fv	s	fs	mv	sil	me	fe	mv	
+x2:	9	59	72	31	39	68	61	40	48	22	54	110	97	55	48	41	104	46	56	46	76	22	47	71	106	46	32	52	124	
+x3:	2	0	19	0	2	4	0	35	2	2	2	0	52	6	0	2	39	2	2	2	18	18	2	2	40	2	0	2	77	
+y:	_	_	,	_	_	,	_	.	_	_	,	_	.	,	_	_	.	_	_	,	_	,	_	,	.	_	_	,	.	
+stats:	23	0	0	
+x1:	sil	me	mv	sil	me	fs	fv	s	fv	fe	mv	sil	me	fs	fs	fv	s	mv	sil	me	fe	fv	s	fs	mv	sil	me	fe	mv	sil	me	fs	fv	fs	fs	fs	fs	fv	sil	me	fs	mv	sil	
+x2:	9	49	92	34	55	65	49	40	36	46	42	58	45	87	81	32	40	105	54	37	42	30	81	26	77	47	27	79	83	42	27	71	42	35	62	81	65	56	36	52	35	108	115	
+x3:	0	0	31	0	2	2	27	2	2	2	58	0	2	6	0	20	2	52	0	2	0	2	2	0	45	0	2	2	33	2	0	0	3	0	5	0	0	25	2	2	0	0	3	
+y:	_	_	,	_	_	_	,	_	_	_	.	_	,	_	_	,	_	.	_	,	_	,	_	_	.	_	_	,	.	_	_	_	,	_	,	_	_	,	_	_	_	_	.	
+stats:	8	2	0	
+x1:	sil	me	fs	fe	fs	fs	fs	fs	fs	mv	sil	me	fv	s	mv	sil	me	fe	fs	mv	sil	me	fe	fs	fv	sil	fv	fe	mv	sil	me	fs	fs	mv	sil	
+x2:	9	58	56	68	25	71	77	43	32	83	66	49	48	36	119	54	50	52	63	162	54	41	29	65	30	41	28	51	113	45	49	50	36	58	104	
+x3:	12	2	0	2	0	2	0	3	0	51	0	0	10	2	48	0	2	2	0	54	2	0	0	0	24	2	2	2	45	0	2	0	3	71	33	
+y:	_	_	_	_	_	_	_	,	_	.	_	_	,	_	.	_	_	_	_	.	_	_	_	_	,	_	_	_	.	_	_	_	_	.	_	
+stats:	9	1	0	
+x1:	sil	me	mv	sil	me	fs	mv	sil	me	fs	fs	fv	sil	me	fv	mv	sil	me	fs	fs	fs	mv	sil	me	fs	fs	fv	s	fs	mv	sil	me	fv	fs	fs	mv	sil	
+x2:	52	50	44	49	52	19	94	44	53	61	81	52	34	47	63	61	34	52	34	52	27	91	44	56	82	97	27	52	48	129	36	43	20	55	61	65	101	
+x3:	0	0	33	0	2	2	37	2	2	3	2	29	2	2	5	28	4	0	2	0	2	37	2	0	2	0	8	0	3	34	2	2	2	2	0	0	2	
+y:	_	_	.	_	_	,	.	_	_	_	_	,	_	_	,	,	_	_	,	_	_	.	_	_	_	_	,	_	_	.	_	_	,	_	_	_	.	
+stats:	15	0	0	
+x1:	sil	me	fv	fe	fs	fv	sil	me	fe	fe	fv	s	fs	fs	mv	sil	fv	fe	fv	mv	sil	me	fe	fe	mv	sil	me	fv	fe	fs	mv	sil	me	fv	fe	fs	mv	sil	
+x2:	9	59	50	77	67	43	58	67	51	44	53	69	81	43	82	62	44	61	30	97	56	59	32	52	52	54	44	58	28	84	91	41	68	39	51	45	43	114	
+x3:	9	2	2	0	0	46	2	0	0	0	3	2	2	0	54	0	0	0	2	52	2	5	5	0	43	2	0	2	0	0	4	2	2	0	2	0	0	2	
+y:	_	_	_	_	_	.	_	_	_	_	,	_	_	_	.	_	_	_	_	.	_	_	,	_	.	_	_	,	_	_	.	_	_	_	,	_	_	.	
+stats:	9	1	0	
+x1:	sil	me	fv	me	fs	fe	fe	fe	fe	mv	sil	me	fv	fs	fs	fs	mv	sil	me	fe	fv	s	fs	mv	sil	me	fe	mv	sil	me	fe	fv	fe	fe	fv	fe	fe	mv	sil	
+x2:	9	77	71	57	43	41	55	39	30	40	56	41	26	62	71	95	61	59	26	50	35	68	34	64	62	26	58	86	60	101	86	53	69	63	56	67	69	56	112	
+x3:	0	3	13	2	2	0	2	2	2	52	0	2	2	6	2	2	54	0	2	0	8	2	0	0	5	2	5	51	2	0	0	13	0	0	2	2	0	0	2	
+y:	_	,	,	_	_	_	,	_	_	.	_	_	,	_	_	_	.	_	,	_	,	_	_	_	.	_	,	.	_	_	_	,	_	_	,	_	_	_	.	
+stats:	16	3	0	
